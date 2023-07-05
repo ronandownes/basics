@@ -1,1 +1,7 @@
 git add . && git commit -m "Update files" && git push origin main
+
+
+
+
+git config --global user.name "ronandownes"
+git config --global user.email ronandownes@gmail.com
